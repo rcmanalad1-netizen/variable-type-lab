@@ -8,8 +8,8 @@ The project focuses on creative workflow enhancement by allowing users to instan
 
 ## Application Overview
 
-![Variable Type Lab Screenshot](./screenshots/application-overview1.png)
-![Variable Type Lab Screenshot](./screenshots/application-overview2.png)
+![Variable Type Lab Screenshot](public/screenshots/application-overview1.png)
+![Variable Type Lab Screenshot](public/screenshots/application-overview2.png)
 
 ---
 
